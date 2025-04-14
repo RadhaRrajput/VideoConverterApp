@@ -18,4 +18,4 @@
  ## How to Run
 
 1. Clone the repo or unzip the source:
-   git clone https://github.com/your-username/VideoConverterApp.git
+   git clone https://github.com/RadhaRrajput/VideoConverterApp.git
